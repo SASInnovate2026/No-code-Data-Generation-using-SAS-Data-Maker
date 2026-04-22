@@ -1,5 +1,5 @@
 # No-code-Data-Generation-using-SAS-Data-Maker
-No-code Data Generation using SAS Data Maker
+This hands-on workshop gives you an opportunity to try out SAS®  Data Maker and learn about some of the methods and metrics available. SAS®  Data Maker provides an environment for generating synthetic data that are statistically similar to a reference data set. Synthetic data can be ideal for such scenarios as masking sensitive personal information, balancing data with rare target events, and simulatingdata for large optimization models.
 
 ## Important Information
 
